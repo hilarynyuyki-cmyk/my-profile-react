@@ -1,9 +1,9 @@
-import Profile from "./Profile";
+import HilaryProfile from "./Profile";
 
 function App() {
   return(
     <>
-      <Profile />
+      <HilaryProfile />
     </>
   );
 }
